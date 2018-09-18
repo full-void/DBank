@@ -1,0 +1,40 @@
+html, body {
+    height: 100%;
+    font-size: 30px;
+}
+
+.bigContainer-dashboard {
+    background: linear-gradient(to right, #00B4DB, #0083B0);
+    height: 100vh;
+    color: white;
+}
+
+.greeter {
+    font-size: 60px;
+    font-weight: bold;
+    color: #f9f9f9;
+}
+
+.category-transfer {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #E0F7FA;
+}
+
+.icon-dashboard {
+    font-size: 80px !important;
+    color: #b2d9e7 !important;
+}
+
+.option-dashboard {
+    text-align: center;
+}
+
+.dashboard-row {
+    margin-top: 70px;
+}
+
+.link-fix {
+    color: #E0F7FA !important;
+
+}

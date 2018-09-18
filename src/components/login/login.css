@@ -1,0 +1,65 @@
+html, body {
+    height: 100%;
+    font-size: 30px;
+}
+
+.bigContainer-transfer {
+    background: linear-gradient(to right, #43e97b 0%, #38f9d7 100%);
+    height: 100vh;
+    color: white;
+}
+
+.heading-transfer {
+    font-size: 80px;
+    font-weight: bold;
+    color: #f9f9f9;
+}
+
+h2 {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+span {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #fbecd9;
+}
+
+.icon-transfer {
+    font-size: 80px;
+    color: #fbecd9;
+}
+
+.option-transfer {
+    text-align: center;
+}
+
+.transfer-row {
+    margin-top: 70px;
+}
+
+.margined {
+    margin: 50px 0;
+}
+
+.custom-nav {
+    background-color: #f1f1f1 !important;
+}
+
+.custom-nav-brand {
+    font-weight: 800;
+    color: #636363 !important;
+}
+
+.custom-btn-transfer {
+    background-color: #1abc51;
+    color: white;
+    border: none;
+}
+
+.custom-btn-transfer:hover {
+    background-color: #18ad4a;
+    color: white;
+    border: none;
+}

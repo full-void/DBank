@@ -1,0 +1,74 @@
+html, body {
+    height: 100%;
+    font-size: 30px;
+}
+
+.bigContainer-credit {
+    background: linear-gradient(to right, #f12711, #f5af19);
+    height: 100vh;
+    color: white;
+}
+
+.heading-credit {
+    font-size: 80px;
+    font-weight: bold;
+    color: #f9f9f9;
+}
+
+h2 {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.category-credit {
+    font-weight: bold;
+    font-size: 1.2rem;
+    color: #fbecd9;
+}
+
+.icon-credit {
+    font-size: 80px;
+    color: #fbecd9;
+}
+
+.option-credit {
+    text-align: center;
+}
+
+.credit-row {
+    margin-top: 70px;
+}
+
+.margined {
+    margin: 50px 0;
+}
+
+.getValue {
+    visibility: hidden;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.custom-nav {
+    background-color: #f1f1f1 !important;
+}
+
+.custom-nav-brand {
+    font-weight: 800;
+    color: #636363 !important;
+}
+
+.custom-btn-credit {
+    background-color: #1abc51;
+    color: white;
+    border: none;
+}
+
+.custom-btn-credit:hover {
+    background-color: #18ad4a;
+    color: white;
+    border: none;
+}

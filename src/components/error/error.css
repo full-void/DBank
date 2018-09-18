@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+    font-size: 30px;
+}
+
+.bigContainer-error {
+    background: linear-gradient(to right, #ED213A, #93291E);
+    height: 100vh;
+    color: white;
+}
+
+.h1-error {
+    padding: 10%;
+    font-weight: 700;
+}

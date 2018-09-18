@@ -1,0 +1,84 @@
+html, body {
+    height: 100%;
+}
+
+.innerContent {
+    display: flex;
+    margin-top: 70px;
+}
+
+.custom-btn-startup {
+    width: 550px;
+    height: 250px;
+    background-color: transparent;
+    font-weight: bolder;
+    font-size: 80px;
+    border: 0px solid transparent;
+    border-radius: 60px;
+    margin-top: 10%;
+}
+
+.custom-btn-startup:hover {
+    background-color: rgba(51, 255, 240, 0.6);
+}
+
+.icon-startup {
+    font-size: 150px;
+    color: #ECECEC;
+    border-right: 70px solid transparent;
+}
+
+.contain {
+    height: 100vh;
+
+    text-align: center;
+    padding-top: 15%;
+    align-content: center;
+    justify-content: center;
+
+}
+
+.header {
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    border-bottom: 80px solid transparent;
+}
+
+.content {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+.custom-nav {
+    background-color: #f1f1f1 !important;
+}
+
+.custom-nav-brand {
+    font-weight: 800;
+    color: #636363 !important;
+}
+
+.pink {
+    background: linear-gradient(to right, deeppink 0%, coral 100%);
+
+}
+
+.teal {
+    background: linear-gradient(to right, SlateBlue 0%, DeepSkyBlue 100%);
+
+}
+
+.tomato {
+    background: linear-gradient(to right, tomato 0%, gold 100%);
+
+}
+
+.purple {
+    background: linear-gradient(to right, #9966ff, #6699ff);
+}
+
+.green {
+    background: linear-gradient(to right, #9FFF33, #33FFCE);
+}
