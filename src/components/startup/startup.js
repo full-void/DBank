@@ -22,7 +22,6 @@ const Page = ({iconClass, offset, imageUrl, heading, description, gradient}) => 
 
 class Startup extends Component {
     render() {
-        console.log(content);
         return (
             <div>
                 <nav className="custom-nav navbar fixed-top navbar-expand-lg navbar-light bg-light">
