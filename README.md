@@ -3,7 +3,7 @@ The DBank is very powerful yet dead simple de-centralized bank. This app allows 
 
 ## Live Demo
 
-https://tranoidityfluidment.github.io/DBank/
+[Github Pages](https://tranoidityfluidment.github.io/DBank/)
 
 ## Implementation
 
@@ -20,13 +20,13 @@ A lot of people want to use cryptocurrency for their tons of benefits. At the sa
 ## Preview
 
 ### Landing Page
-![Landing](https://github.com/tranoidityFluidment/DBank/public/media/preview/Main.png)
+![Landing](https://github.com/tranoidityFluidment/DBank/blob/master/public/media/preview/Main.png)
 
 ### Dashboard
-![Dashboard](https://github.com/tranoidityFluidment/DBank/public/media/preview/Dashboard.png)
+![Dashboard](https://github.com/tranoidityFluidment/DBank/blob/master/public/media/preview/Dashboard.png)
 
 ### Credit Status
-![Credit](https://github.com/tranoidityFluidment/DBank/public/media/preview/Credit.png)
+![Credit](https://github.com/tranoidityFluidment/DBank/blob/master/public/media/preview/Credit.png)
 
 ### Transfer Money
-![Transfer](https://github.com/tranoidityFluidment/DBank/public/media/preview/Transfer.png)
+![Transfer](https://github.com/tranoidityFluidment/DBank/blob/master/public/media/preview/Transfer.png)
