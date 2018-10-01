@@ -17,6 +17,10 @@ With this app, transfering money is as easy as putting the receiver's code, amou
 
 A lot of people want to use cryptocurrency for their tons of benefits. At the same time, everyone wants a good credit score. After all, a lot of important things depend on it. This app can work as your digital credit card. We bet you will love it. 
 
+## One of it's great feature
+
+Unlike a crypto wallet transaction, the ether once transferred to this bank can be called back. It will check for the account address and will trigger a transaction automatically.
+
 ## Preview
 
 ### Landing Page
